@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433919837102",
+    "project_id": "ml-kit-test-c3be2",
+    "storage_bucket": "ml-kit-test-c3be2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433919837102:android:0f12a1f6143ea5aa09fe3f",
+        "android_client_info": {
+          "package_name": "com.netphi.ml_kit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433919837102-m7au0qgnrmd11tuarqo3ps5id7b309q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL6qwhvq98498g6ZHM_fYlSngS74mvlbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433919837102-m7au0qgnrmd11tuarqo3ps5id7b309q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
